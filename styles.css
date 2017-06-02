@@ -129,7 +129,7 @@ h2
 }
 
 
-@media only screen and (max-width: 1120px) {
+@media only screen and (max-width: 1240px) {
     .menu
     {
         width: 100%;
@@ -148,13 +148,34 @@ h2
     }
 
 }
+
+@media only screen and (max-width: 970px) {
+    #kramericapic
+    {
+        position: relative;
+        height: 200px;
+        width: 100%;
+        margin: 4px;
+        border: 1px solid black:
+    }
+    #kramericapic2
+    {
+        position: relative;
+        height: 200px;
+        width: 100%;
+        left: 45px;
+        margin: 1px;
+        border: 1px solid black:
+    }
+}
+
 @media only screen and (max-width: 800px) and (min-width: 400px) {
     #kramericapic
     {
         position: relative;
         height: 200px;
         width: 100%;
-        margin: 1px;
+        margin: 4px;
         border: 1px solid black:
     }
     #kramericapic2
